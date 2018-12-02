@@ -6,7 +6,7 @@ Aion Dev Docker project aims to provide a docker image with all the required too
 
 > Aion Jars to provide a development runtime
 
-> Java 11
+> Open JDK 11
 
 > Other libraries / tools will be added to provide a development runtime for smart contract developers.
 
